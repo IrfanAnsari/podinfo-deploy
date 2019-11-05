@@ -1,0 +1,1 @@
+{"jobID":"9e294e68-4762-978f-2396-7d60c138d7cf","spec":{"type":"policy","cause":{"Message":"","User":"Irfan Ansari \u003cirfan.ansari@applyingagile.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
